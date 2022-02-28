@@ -1,0 +1,58 @@
+segment_sources:
+  P8269805E:
+    type: origin_type
+    relation: translation
+    language: en
+  P5B9FEAF5:
+    type: origin_type
+    relation: translation
+    language: de
+  P2321382E:
+    type: origin_type
+    relation: translation
+    language: es
+  PB67957CD:
+    type: origin_type
+    relation: translation
+    language: fr
+  PB78B7899:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61f76604f99344229de279ad57b40193:
+    P8269805E: 1ae08117e874492dabb1171c7eb7ff4d
+    P5B9FEAF5: 7a375066885349ff9a82db1a101b3453
+    P2321382E: 96da56e177704a96b3f96c755f904731
+    PB67957CD: 81d29f1f78f240b08973406b875640cd
+    PB78B7899: 2a693cd454cf4e05822e3c910abc2154
+  600dcbde34b44f698619c9457ea699ee:
+    P8269805E: a8cbf4c9ce2a45eea311d91bf9fa75d6
+    P5B9FEAF5: 34459d174a314b44af190e4a6f0e8091
+    P2321382E: 30c3fd3379ea4294926e21df1b5b7367
+    PB67957CD: c247eae90dd3463781d8366d7efb336a
+    PB78B7899: 776da2de56e0419dabbaaa1027d55b92
+  abd231ce01fe4e28a24f44fc00e51d6c:
+    P8269805E: fbda307717ef4e76a53d761bf08d9ffc
+    P5B9FEAF5: f1f05a2aa87c41a88d8a8ea721ffcb66
+    P2321382E: 0b7a2bc4a75d4718bd5bdef075cdd545
+    PB67957CD: 1372603d02594d38accc7e683e1d035e
+    PB78B7899: 4f7988faabf24cc981a8787808ae70a4
+  ad228a06c67d4d319534cfe5e07c68b8:
+    P8269805E: 3160367d12d64a61ac2d1947ef097f42
+    P5B9FEAF5: 57fe0da982bc4069a49b9f70836f8f7e
+    P2321382E: 5a7992f0386547398460011bdeefc7c5
+    PB67957CD: c16770ecb4f9413789719494c6f8b923
+    PB78B7899: bd12078345494d828d4878257563ef00
+  f72eb11929204fcc8368e2d5ba6f9e3d:
+    P8269805E: 0881597ffdde4132aa7384d8c0967410
+    P5B9FEAF5: ac67a1cd79aa4620902685ba11b62de4
+    P2321382E: 5738814707aa4d84bbd612a898253d9d
+    PB67957CD: 32e9264d8c364845886d06a53eee457b
+    PB78B7899: 06dfe5cb745f44f5aaae81cc142e1f73
+  48b70813ac6b43c683fd27dcd508426b:
+    P8269805E: b1ae0520af6742ba86d6b3168ef8a960
+    P5B9FEAF5: 03b69fa7f0dd42feaf8f0f35d8f16991
+    P2321382E: ecc998ea681b489e82c431eb08974853
+    PB67957CD: 5c3307df5153444fb1b1521b34886ac2
+    PB78B7899: e2d5a317555146f6a1059baa86b14112

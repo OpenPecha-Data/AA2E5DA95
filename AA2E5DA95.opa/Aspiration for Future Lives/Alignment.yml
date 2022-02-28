@@ -1,0 +1,26 @@
+segment_sources:
+  P8269805E:
+    type: origin_type
+    relation: translation
+    language: en
+  PE2D01E24:
+    type: origin_type
+    relation: translation
+    language: zh
+  PB78B7899:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61986bf70c8149b99636cb68ce37caf6:
+    P8269805E: c4a6b9c61d794cbcb92dfa35ef5a800f
+    PE2D01E24: 44984dbc8fdc461ca52c402cbc07da6a
+    PB78B7899: 9d9f452ac7d14fa38c0c714741301e4c
+  4dc630b9017f4b35809e01982d1ef22a:
+    P8269805E: e2b7e6b3cb5d41e99579579b87f819a9
+    PE2D01E24: 479a0fc433de4cf3917da0956a616e3b
+    PB78B7899: a4332e49613a48308ee3c9e672664374
+  7d9e32ed1e0f43b5ab7558fc41e2a914:
+    P8269805E: 5dbcf8b6effc4f48bd16125b131ceefb
+    PE2D01E24: a1f80ba8483d41659b8ad39b6069a6a1
+    PB78B7899: c7b754f78db748f58629a1e821235ea2

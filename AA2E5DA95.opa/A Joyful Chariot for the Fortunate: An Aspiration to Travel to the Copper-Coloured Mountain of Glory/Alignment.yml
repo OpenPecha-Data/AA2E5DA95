@@ -1,0 +1,19 @@
+segment_sources:
+  P8269805E:
+    type: origin_type
+    relation: translation
+    language: en
+  PB78B7899:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dd8563f079404b488317ae9ff6d27aca:
+    P8269805E: 1849541f838a4994893550c6747c4b58
+    PB78B7899: 0fcf64369e164426846baac4344a7fd7
+  284ee3927f914accb01764f6e0584198:
+    P8269805E: 9ec7578314844edbad04d4077ee362c4
+    PB78B7899: b30a92e4c901403c9e89c238fa386480
+  281bc4e2ffe94f96a81ef3c13578a860:
+    P8269805E: b798c4ca8e524345932bf2e444e5a898
+    PB78B7899: 0d7dd385613a4adab54b3a8d48a61bdf
